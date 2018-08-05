@@ -2,5 +2,5 @@
 Penang Python Meetup held on 4th Aug 2018,
 Sessions:
 1. Flask Introduction
-2. Deployment of Flask Application of Docker
+2. Running a Flask Application in Docker
 3. Data Cleansing using Python, Pandas
